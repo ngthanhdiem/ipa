@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadIdentifier</key>
+            <string>com.ngthanhdiem.khoipa.allow</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadDisplayName</key>
+            <string>Cấu hình cho phép cài đặt</string>
+            <key>allowCamera</key>
+            <true/>
+            <key>allowScreenShot</key>
+            <true/>
+            <key>allowAppInstallation</key>
+            <true/>
+            <key>allowAssistant</key>
+            <true/>
+            <key>allowCloudBackup</key>
+            <true/>
+            <key>allowGlobalBackgroundFetchWhenRoaming</key>
+            <true/>
+            <key>forceITunesStorePasswordEntry</key>
+            <false/>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Kho IPA an toàn</string>
+    <key>PayloadIdentifier</key>
+    <string>com.ngthanhdiem.khoipa</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>D4E5F6A7-B8C9-4D0E-1F2A-3B4C5D6E7F8A</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadOrganization</key>
+    <string>Telegram: @ThanhDiemX</string>
+    <key>PayloadDescription</key>
+    <string>Kho IPA an toàn - Nguồn ứng dụng iOS tin cậy. Hỗ trợ &amp; cập nhật qua Telegram: @ThanhDiemX. Profile này KHÔNG chứa mã độc, không thu thập dữ liệu, có thể gỡ bỏ bất cứ lúc nào trong Cài đặt &gt; Cài đặt chung &gt; VPN &amp; Quản lý thiết bị.</string>
+</dict>
+</plist>
